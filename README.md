@@ -56,7 +56,7 @@ Run the same check on any candidate. The output is a decision input:
 
 Kortix, the open-source AI Operating System, is one repository per company: agents, skills, memory, connector configuration and triggers are files in a git repo the company owns, and sessions run on isolated machines from that configuration ([kortix.com](https://kortix.com)). It is open source, it self-hosts for free, and on Kortix Cloud credits pay for the agent computer by the second — a stopped computer costs nothing ([pricing](https://kortix.com/pricing)). There is no separate organisation edition sold as a licence: the org layer is the repository, the permissions file and the change request a person reviews.
 
-That is a different object from a desktop app, and the comparison only makes sense once both are named correctly. The handbook at [opensourceclaudecowork.com](https://opensourceclaudecowork.com) works through the deployment-shape question for teams, and [Kortix vs OpenWork](https://kortix.com/blog/kortix-vs-openwork) takes the feature comparison from there.
+That is a different object from a desktop app, and the comparison only makes sense once both are named correctly. The handbook at [opensourceclaudecowork.com](https://opensourceclaudecowork.com) works through the deployment-shape question for teams, and [Kortix vs OpenWork](https://kortix.com/blog/kortix-vs-openwork) takes the feature comparison from there. Its [Claude Cowork vs OpenWork](https://opensourceclaudecowork.com/claude-cowork-vs-openwork) page works through where OpenWork stops at the desktop and what a server-side system with a review gate adds.
 
 ## Limits of this check
 
